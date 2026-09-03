@@ -1,0 +1,10 @@
+id: baf45e2661c344849de939904a53be19
+annotation_type: Author
+revision: '00001'
+annotations:
+  734658b909ed48a5b2e865e98ec14215:
+    span:
+      start: 82
+      end: 124
+local_ids:
+  734658b909ed48a5b2e865e98ec14215: 200000
