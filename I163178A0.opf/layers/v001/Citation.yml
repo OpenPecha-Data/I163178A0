@@ -1,17 +1,17 @@
-id: 06a62ec176554719afbf9c61dc9998f2
+id: 0e60acfa33ea45f2a96e3552654d0fc6
 annotation_type: Citation
 revision: '00001'
 annotations:
-  b6e6c95360684fe9bf53d1e57d96f552:
+  96408971a25f40c4b23c4c8e2e6b1276:
     span:
       start: 6902
       end: 6933
     isverse: true
-  418c7903886a4776903e72802c920c1e:
+  e7493d60b64e4a3ca3ebef90136d557a:
     span:
       start: 7351
       end: 7520
     isverse: true
 local_ids:
-  b6e6c95360684fe9bf53d1e57d96f552: 200000
-  418c7903886a4776903e72802c920c1e: 200001
+  96408971a25f40c4b23c4c8e2e6b1276: 200000
+  e7493d60b64e4a3ca3ebef90136d557a: 200001
